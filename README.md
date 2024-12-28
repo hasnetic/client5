@@ -5,6 +5,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server, jangan lupa install sequelize shadcn mysql2 jsonwebtoken:
 
 ```bash
+#
+npm i sequelize mysql2 jsonwebtoken
+#
 npm run dev
 # or
 yarn dev
